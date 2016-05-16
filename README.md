@@ -1,2 +1,2 @@
-# Lyc4Net
-.NET开发中的常用类232
+﻿# Lyc4Net
+.NET开发中的常用类

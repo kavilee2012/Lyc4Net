@@ -1,0 +1,11 @@
+E:\OpenSource\Lyc4Net\Lyc4Net\SqlServer\bin\Debug\SqlServer.dll
+E:\OpenSource\Lyc4Net\Lyc4Net\SqlServer\bin\Debug\SqlServer.pdb
+E:\OpenSource\Lyc4Net\Lyc4Net\SqlServer\obj\Debug\SqlServer.dll
+E:\OpenSource\Lyc4Net\Lyc4Net\SqlServer\obj\Debug\SqlServer.pdb
+E:\OpenSource\Lyc4Net\Lyc4Net\SqlServer\bin\Debug\Interop.SQLDMO.dll
+E:\OpenSource\Lyc4Net\SqlServer\bin\Debug\SqlServer.dll
+E:\OpenSource\Lyc4Net\SqlServer\bin\Debug\SqlServer.pdb
+E:\OpenSource\Lyc4Net\SqlServer\bin\Debug\Interop.SQLDMO.dll
+E:\OpenSource\Lyc4Net\SqlServer\obj\Debug\SqlServer.csprojResolveAssemblyReference.cache
+E:\OpenSource\Lyc4Net\SqlServer\obj\Debug\SqlServer.dll
+E:\OpenSource\Lyc4Net\SqlServer\obj\Debug\SqlServer.pdb
